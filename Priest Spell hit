@@ -1,0 +1,20 @@
+
+
+Description:
+
+The Spell Hit rating on the T13 Priest Set is to high.
+
+Current behaviour:
+
+If you equip the hole T13 Set your spell hit rating reach the cap and goes down to 0. So you start to miss a lot of spells.
+
+Expected behaviour:
+
+The Spell hit rating should be so high that you don´t miss your spells anymore.
+
+Steps to reproduce the problem:
+
+Step 1  T13 Priest Set Id´s 81816 - 81823
+Step 2  The Spell Hit Rating needs to be around 15k lower.
+   
+
